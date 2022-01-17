@@ -1,3 +1,5 @@
+![headshot](HelloWorld.png)
+
 # HelloWorld
 This is not my first repository on GitHub, but I'll pretend it is. 
 
